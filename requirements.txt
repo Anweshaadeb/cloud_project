@@ -1,0 +1,12 @@
+langchain
+pypdf
+transformers
+sentence-transformers
+accelerate
+faiss-cpu
+streamlit
+langchain-cli
+langchain-fireworks
+einops
+langchain_together
+tf-keras
